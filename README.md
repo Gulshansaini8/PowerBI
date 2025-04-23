@@ -4,3 +4,6 @@
 - Created interactive dashboards to analyze KPIs like sales performance, revenue trends, and delay issues.
 - Developed custom measures and calculated columns using DAX to improve product-level decision-making.
 - Delivered actionable insights to drive marketing and inventory strategies.
+
+### Skills:
+· Data Visualization · DAX · Microsoft Power Query · Reporting · Business Intelligence (BI) · Microsoft Power BI
